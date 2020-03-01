@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Homemade+Apple&display=swap');
+.calendar {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+h1 {
+    font-family: 'Homemade Apple';
+    font-size: 200%;
+    display: flex;
+    justify-content: center;
+    color: lightcoral;
+    padding: 20px;
+}
+
+.today{
+height: 500px;
+width: 33%;
+border: 1px solid black;
+float:left;
+}
+.tomorrow {
+    height: 500px;
+    width: 33%;
+    border: 1px solid black;
+    float: right;
+}
