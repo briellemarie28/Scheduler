@@ -2,6 +2,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 import { CalendarModule } from '@syncfusion/ej2-angular-calendars';
 import { FormsModule } from '@angular/forms';
+
 import {ScheduleModule, AgendaService, DayService,
    WeekService, WorkWeekService, MonthService } from '@syncfusion/ej2-angular-schedule';
 

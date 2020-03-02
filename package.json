@@ -16,12 +16,15 @@
     "@angular/compiler": "~8.2.14",
     "@angular/core": "~8.2.14",
     "@angular/forms": "~8.2.14",
+    "@angular/material": "^9.1.0",
     "@angular/platform-browser": "~8.2.14",
     "@angular/platform-browser-dynamic": "~8.2.14",
     "@angular/router": "~8.2.14",
     "@ng-bootstrap/ng-bootstrap": "^6.0.0",
     "@syncfusion/ej2-angular-calendars": "^17.4.51",
     "@syncfusion/ej2-angular-schedule": "^17.4.51",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
     "rxjs": "~6.4.0",
     "tslib": "^1.10.0",
     "zone.js": "~0.9.1"
@@ -46,5 +49,17 @@
     "ts-node": "~7.0.0",
     "tslint": "~5.15.0",
     "typescript": "~3.5.3"
-  }
+  },
+  "description": "This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.22.",
+  "main": "karma.conf.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/briellemarie28/Scheduler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/briellemarie28/Scheduler/issues"
+  },
+  "homepage": "https://github.com/briellemarie28/Scheduler#readme"
 }
