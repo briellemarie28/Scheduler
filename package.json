@@ -24,7 +24,7 @@
     "@syncfusion/ej2-angular-calendars": "^17.4.51",
     "@syncfusion/ej2-angular-schedule": "^17.4.51",
     "cors": "^2.8.5",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "rxjs": "~6.4.0",
     "tslib": "^1.10.0",
     "zone.js": "~0.9.1"
